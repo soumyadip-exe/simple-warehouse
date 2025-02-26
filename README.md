@@ -19,9 +19,3 @@ This is a **Warehouse Management System** built using PHP, MySQL, and CSS. It pr
 - **Frontend**: HTML, CSS (`Poppins` font, animations, and gradients).
 - **Backend**: PHP.
 - **Database**: MySQL.
-
-## 🏗️ Setup Instructions
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/warehouse-system.git
